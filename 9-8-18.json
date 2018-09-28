@@ -1,86 +1,98 @@
 [
   {
     "table_number": "1",
-    "start_time": 0,
-    "end_time": 0,
+    "start_time": 100,
+    "end_time": 130,
     "occupied": false,
-    "time_played": ""
+    "time_played": "0 Hours 30 Minutes",
+    "cost": "$15.00"
   },
   {
     "table_number": "2",
     "start_time": 0,
     "end_time": 0,
     "occupied": false,
-    "time_played": ""
+    "time_played": "",
+    "cost": 0
   },
   {
     "table_number": "3",
     "start_time": 0,
     "end_time": 0,
     "occupied": false,
-    "time_played": ""
+    "time_played": "",
+    "cost": 0
   },
   {
     "table_number": "4",
     "start_time": 0,
     "end_time": 0,
     "occupied": false,
-    "time_played": ""
+    "time_played": "",
+    "cost": 0
   },
   {
     "table_number": "5",
     "start_time": 0,
     "end_time": 0,
     "occupied": false,
-    "time_played": ""
+    "time_played": "",
+    "cost": 0
   },
   {
     "table_number": "6",
     "start_time": 0,
     "end_time": 0,
     "occupied": false,
-    "time_played": ""
+    "time_played": "",
+    "cost": 0
   },
   {
     "table_number": "7",
     "start_time": 0,
     "end_time": 0,
     "occupied": false,
-    "time_played": ""
+    "time_played": "",
+    "cost": 0
   },
   {
     "table_number": "8",
     "start_time": 0,
     "end_time": 0,
     "occupied": false,
-    "time_played": ""
+    "time_played": "",
+    "cost": 0
   },
   {
     "table_number": "9",
     "start_time": 0,
     "end_time": 0,
     "occupied": false,
-    "time_played": ""
+    "time_played": "",
+    "cost": 0
   },
   {
     "table_number": "10",
     "start_time": 0,
     "end_time": 0,
     "occupied": false,
-    "time_played": ""
+    "time_played": "",
+    "cost": 0
   },
   {
     "table_number": "11",
     "start_time": 0,
     "end_time": 0,
     "occupied": false,
-    "time_played": ""
+    "time_played": "",
+    "cost": 0
   },
   {
     "table_number": "12",
-    "start_time": 700,
-    "end_time": 800,
+    "start_time": 0,
+    "end_time": 0,
     "occupied": false,
-    "time_played": "1 Hours 0 Minutes"
+    "time_played": "",
+    "cost": 0
   }
 ]
